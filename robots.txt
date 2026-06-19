@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://frusd4frout94nar.github.io/asia-nangong-com/sitemap.xml
